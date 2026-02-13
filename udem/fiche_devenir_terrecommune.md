@@ -22,7 +22,7 @@ Pour retrouver ce exposition, il est situé à Montreal où le lieu d'hébergeme
 J'ai participé à la galerie de l'Université à Montreal, le 30 Janvier 2026 pour voir les creation d'arts introduisent par des talentieux artistes à l'aide de l'intelligence artificiel.
 
 ## Diapositive 5 — Titre de l'oeuvre
-Dans l'exposition, il y a quatre oeuvres qui est exposé, cependant lequel qui captive mos intéretsl le plus est nommé en anglais "Common Ground" ou en francais "Terre commune".
+Dans l'exposition, il y a quatre oeuvres qui est exposé, cependant lequel qui captive mon intérets le plus est nommé en anglais "Common Ground" ou en francais "Terre commune".
 ![Objet matériel](photo/udem-30janvier-affichage-information-titre_description_du_dispositif.jpg)
 > information de l'oeuvre
 
