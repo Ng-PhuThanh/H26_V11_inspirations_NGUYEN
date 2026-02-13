@@ -9,9 +9,9 @@ Session 02/ Cours 3
 ---
 
 ## Diapositive 2 — Nom de l'exposition
-![Objet matériel](photo/udem-30janvier-entree-lieu_en_mise_en_exposition.jpg)
-> nom de l'exposition et l'entrée du exposition
 L'exposition du galerie de l'Université de Montreal est appelé "Devenirs partage. Pratiques de l'IA". Le but de l'exposition est de mettre en jeux l'AI en faisant de l'art avec.
+![Objet matériel](photo/udem-30janvier-entree-lieu_en_mise_en_exposition.jpg)
+> nom de l'exposition et l'entrée du exposition 
 
 ## Diapositive 3 — Lieu de mise en exposition
 Pour retrouver ce exposition, il est situé à Montreal où le lieu d'hébergement est à l'Université de Montreal,Centre d'exposition de l'Université de Montréal, Chemin de la Côte-Sainte-Catherine, Montreal QC H3T 1B4.
@@ -56,11 +56,12 @@ Pour realiser ce art, l'artist à besoin des composantes technologiques comme un
 ## Diapositive 12 — Éléments nécessaires a la mise en exposition
 Pour bien accomoder nos audiences, l'artist doit utiliser des matériaux telles qu'un mur pour permet d'avoir une image pour projecter sur et aussi un banc avec des mirroirs sur une structure aluminium pour que les audiences s'assoient.
 ![Objet matériel](photo/udem-30janvier-visiteurs-environment-mise_en_esapce.jpg)
-> l'enivronnement de l'oeuvre
+> l'environnement de l'oeuvre
 
 ## Diapositive 13 — Expérience vécue
 L'expo "Terre commune" est directement en face à votre droite lorsque vous rentrer.
 ![Objet matériel](photo/udem-30janvier-entrée-parcours-experience-vecue.jpg)
+> Placement de l'oeuvre
 
 ## Diapositive 14 — Ce qui vous a plu, vous a donné des idées
 Ce que j'ai bien aimé du exposition, c'est la manière d'ou on a intéragit sur l'art qui donne l'AI, notre fréquence pour permet de créer des images.
@@ -69,7 +70,7 @@ Ce que j'ai bien aimé du exposition, c'est la manière d'ou on a intéragit sur
 Pour améliorer la composition, selon moi, l'appareil qui lit notre fréquence doit etre plus precise pour donner des résultats precisent. Cela permet aux audiences de comprendre et de vraiment voir l'ingénuité de l'intelligence artificiel.
 
 ## Diapositive 16 — Référemces
-https://schneidermarion.net/
-photographeur : Nguyen Phu thanh
+https://schneidermarion.net/ <br>
+photographeur : Nguyen Phu thanh <br>
 photographeur du premier image(lieu de mise en exposition) : Berbiche Wilhene
 
