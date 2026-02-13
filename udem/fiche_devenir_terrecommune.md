@@ -9,7 +9,7 @@ Session 02/ Cours 3
 ---
 
 ## Diapositive 2 — Nom de l'exposition
-![Objet matériel](galerie-de-l'universite-de-montrealr/galerie_udem/udem-30janvier-entree-lieu_en_mise_en_exposition.jpg)
+![Objet matériel](photo/udem-30janvier-entree-lieu_en_mise_en_exposition.jpg)
 
 L'exposition du galerie de l'Université de Montreal est appelé "Devenirs partage. Pratiques de l'IA". Le but de l'exposition est de mettre en jeux l'AI en faisant de l'art avec.
 ![Objet matériel](galerie-de-l'universite-de-montrealr/galerie_udem/udem_30janvier_moi_lieu_location.jpg)
