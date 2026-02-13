@@ -44,14 +44,14 @@ Donc pour ce oeuvre, Marion Schneider a eu le conception de faire une oeuvre plu
 
 ## Diapositive 10 — Mise en espace
 Le batiment qui accomoder les oeuvres étaient une chambre en rectangle complement blanc pour afficher quelques arts avec l'aide du projecteur.
-![Objet matériel](photo/schema-du-batiment.jpg)
-> Une plan du batiment
+![Objet matériel](photo/schema_du_environnement.jpg)
+> Une schema du mise en espace
 
 ## Diapositive 11 — Composantes et techniques
 Pour realiser ce art, l'artist à besoin des composantes technologiques comme un ordinateur, un casque, un projecteur, des cablese et un écran dénudé. Ceci permet à l'art de se produisent pour qu'on observe la capacité de l'intelligence artificiel.
 ![Objet matériel](photo/udem-30janvier-objet-materiaux-elements_necessaires_a_la_mise_en_exposition.jpg)
 ![Objet matériel](photo/udem-30janiver-projecteur-equipement-composants_et_techniques.jpg)
-> Matériaux nécessairent à produire l'oeuvre
+> Matériaux nécessairent à reproduire l'oeuvre
 
 ## Diapositive 12 — Éléments nécessaires a la mise en exposition
 Pour bien accomoder nos audiences, l'artist doit utiliser des matériaux telles qu'un mur pour permet d'avoir une image pour projecter sur et aussi un banc avec des mirroirs sur une structure aluminium pour que les audiences s'assoient.
