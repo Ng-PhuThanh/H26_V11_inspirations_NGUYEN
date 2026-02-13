@@ -12,7 +12,7 @@ Session 02/ Cours 3
 ![Objet matériel](photo/udem-30janvier-entree-lieu_en_mise_en_exposition.jpg)
 
 L'exposition du galerie de l'Université de Montreal est appelé "Devenirs partage. Pratiques de l'IA". Le but de l'exposition est de mettre en jeux l'AI en faisant de l'art avec.
-![Objet matériel](galerie-de-l'universite-de-montrealr/galerie_udem/udem_30janvier_moi_lieu_location.jpg)
+![Objet matériel](photo/udem_30janvier_moi_lieu_location.jpg)
 
 ## Diapositive 3 — Lieu de mise en exposition
 Pour retrouver ce exposition, il est situé à Montreal où le lieu d'hébergement est à l'Université de Montreal,Centre d'exposition de l'Université de Montréal, Chemin de la Côte-Sainte-Catherine, Montreal QC H3T 1B4.
