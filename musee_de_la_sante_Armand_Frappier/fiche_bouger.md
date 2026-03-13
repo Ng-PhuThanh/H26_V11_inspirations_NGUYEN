@@ -32,7 +32,7 @@ L’humain en mouvement / The Human Being in Motion
 > L'ensemble de l'oeuvre par Nguyen Phu Thanh
 
 **Nom de l’artiste ou de la firme :**  
-Musée de la santé Armand-Frappier et équipe de conception de l’exposition
+Musée de la santé Armand-Frappier et équipe de conception de l’exposition<br>
 ![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/firme_du_exposition.jpg)
 > Artiste ou de la firme par Nguyen Phu Thanh
 
@@ -46,6 +46,7 @@ Non spécifiée
 Le dispositif explique pourquoi les humains sont en constant mouvement pour survivre
 
 Le panneau explique, à l'aide du texte explicatif, l’évolution humaine et comment nos ancêstres ont réussi de survivre grâce aux adaptation physiques.
+
 ---
 
 ## 4. Type d’installation
@@ -89,8 +90,8 @@ Le dispositif est composé de grands panneaux rouges qui illustrent le concept d
 - objets (crâne, objets sportifs, spécimen animal)
 - illustrations graphiques
 - textes
-- écran
-![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/dispositif_partie02.jpg)
+- écran<br>
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/dispositif_partie02.jpg)<br>
 ![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/materiaux.)
 > Matériaux
 
@@ -123,6 +124,6 @@ Il pourrait y avoir plus d’interactivité, par exemple un test d'endurance qui
 
 ## 10. Références
  
-https://musee-armanfrappier.ca
+https://museefrappier.org/exposition/bouger/
 
 Photos prises par Nguyen Phu Thanh
