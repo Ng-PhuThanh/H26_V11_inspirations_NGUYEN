@@ -5,14 +5,14 @@
 Bouger ! Get Moving!
 
 **Affiche de l’exposition :**  
-![Objet matériel](cosmodome/photo/nom_exposition.jpg)
-> Affichage
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/nom_exposition.jpg)
+> Affichage par Nguyen Phu Thanh
 
 **Lieu de mise en exposition :**  
 Musée de la santé Armand-Frappier, Laval (Québec)<br>
 2150 Laurentian Autoroute, Laval, Quebec H7T 0N1<br>
-![Objet matériel](cosmodome/photo/lieu_de_mise_en_exposition.jpg)
-> Adresse
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/lieu_de_mise_en_exposition.jpg)
+> Adresse par Nguyen Phu Thanh
 
 **Type d’exposition :**  
 Exposition intérieure et temporaire
@@ -28,14 +28,14 @@ Exposition intérieure et temporaire
 L’humain en mouvement / The Human Being in Motion
 
 **Vue d’ensemble de l’oeuvre :**  
-![Objet matériel](cosmodome/photo/tout_dispositif.jpg)
-> L'ensemble de l'oeuvre
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/vue_ensemble.jpg)
+> L'ensemble de l'oeuvre par Nguyen Phu Thanh
 
 **Nom de l’artiste ou de la firme :**  
 Musée de la santé Armand-Frappier et équipe de conception de l’exposition
-![Objet matériel](cosmodome/photo/firme_du_exposition.jpg)
-> Artiste ou de la firme
-> 
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/firme_du_exposition.jpg)
+> Artiste ou de la firme par Nguyen Phu Thanh
+
 **Année de réalisation :**  
 Non spécifiée
 
@@ -76,8 +76,8 @@ Le dispositif sert à expliquer l’évolution de l'humain en montrant comment n
 Le dispositif est composé de grande panneaux rouges qui illustrent le concept de l'exposition.
 
 ### Croquis simplifié
-![Objet matériel](cosmodome/photo/mise_en_espace_croquis.jpg)
-> Une schema du mise en espace
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/mise_en_espace_croquis.jpg)
+> Une schema du mise en espace par Nguyen Phu Thanh
 ---
 
 ## 7. Composantes et techniques
@@ -90,21 +90,23 @@ Le dispositif est composé de grande panneaux rouges qui illustrent le concept d
 - illustrations graphiques
 - textes
 - écran
-![Objet matériel](cosmodome/photo/tout_dispositif.jpg)
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/dispositif_partie02.jpg)
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/materiaux.)
 > Matériaux
 
 ### Éléments nécessaires à la mise en exposition
 
 - panneaux muraux
-![Objet matériel](cosmodome/photo/partie01_dispositif.jpg)
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/dispositif_partie01.jpg)
+
 > Batiments
 ---
 
 ## 8. Expérience vécue
 
 Le dispositif, "L’humain en mouvement" , est à votre droite lorsque vous rentrez.
-![Objet matériel](cosmodome/photo/mise_en_espace.jpg)
-> Mise en espace
+![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/mise_en_espace.jpg)
+> Mise en espace par Nguyen Phu Thanh
 ---
 
 ## 9. Réflexion personnelle
