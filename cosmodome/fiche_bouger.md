@@ -74,3 +74,55 @@ Le dispositif sert à expliquer l’évolution du mouvement humain et à montrer
 Le dispositif est composé de grands panneaux rouges disposés dans la salle avec une vitrine transparente au centre.
 
 ### Croquis simplifié
+
+
+---
+
+## 7. Composantes et techniques
+
+### Parties composantes
+
+- panneaux imprimés
+- vitrine en verre
+- objets exposés (crâne, objets sportifs, spécimen animal)
+- illustrations graphiques
+- textes explicatifs
+
+### Éléments nécessaires à la mise en exposition
+
+- vitrine
+- panneaux muraux
+- éclairage
+- support au sol
+
+---
+
+## 8. Expérience vécue
+
+Le visiteur marche dans la salle et s’arrête devant les panneaux pour lire les informations.
+
+Il peut observer les objets dans la vitrine et comprendre les explications sur l’évolution du mouvement humain.
+
+Le parcours permet d’apprendre progressivement en passant d’un panneau à l’autre.
+
+---
+
+## 9. Réflexion personnelle
+
+### ❤ Ce qui m’a plu
+
+Le design graphique coloré et les illustrations rendent les informations faciles à comprendre.  
+La vitrine avec des objets réels rend l’exposition plus intéressante.
+
+### 🤔 Ce que je ferais autrement
+
+Il pourrait y avoir plus d’interactivité, par exemple un écran ou une activité permettant aux visiteurs de tester leurs mouvements ou leur endurance.
+
+---
+
+## 10. Références
+
+Musée de la santé Armand-Frappier  
+https://musee-armanfrappier.ca
+
+Photos prises lors de ma visite.
