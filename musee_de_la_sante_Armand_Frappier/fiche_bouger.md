@@ -45,7 +45,7 @@ Non spécifiée
 
 Le dispositif explique pourquoi les humains sont en constant mouvement pour survivre
 
-Le panneau explique a l'aide du texte explicatif sur l’évolution humaine et comment nos ancestres ont reussi de survivre a cause de l'adaptation physiques.
+Le panneau explique, à l'aide du texte explicatif, l’évolution humaine et comment nos ancêstres ont réussi de survivre grâce aux adaptation physiques.
 ---
 
 ## 4. Type d’installation
@@ -55,7 +55,7 @@ Le panneau explique a l'aide du texte explicatif sur l’évolution humaine et c
 - Contemplative
 - Pédagogique
 
-Le visiteur observe les panneaux explicatifs et les objets pour comprendre le sujet.
+Les visiteurs observent les panneaux explicatifs et les objets pour comprendre le sujet.
 
 ---
 
@@ -67,13 +67,13 @@ Fonctions principales :
 - Support pédagogique  
 - Mise en valeur d’objets de collection
 
-Le dispositif sert à expliquer l’évolution de l'humain en montrant comment notre corps s'adapte et s'evoluent a cause de l'entrainement cardio et physique.
+Le dispositif sert à expliquer l’évolution de l'humain en montrant comment notre corps s'adapte et évoluent à cause de l'entraînement cardio et physique.
 
 ---
 
 ## 6. Mise en espace
 
-Le dispositif est composé de grande panneaux rouges qui illustrent le concept de l'exposition.
+Le dispositif est composé de grands panneaux rouges qui illustrent le concept de l'exposition.
 
 ### Croquis simplifié
 ![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/mise_en_espace_croquis.jpg)
@@ -104,7 +104,7 @@ Le dispositif est composé de grande panneaux rouges qui illustrent le concept d
 
 ## 8. Expérience vécue
 
-Le dispositif, "L’humain en mouvement" , est à votre droite lorsque vous rentrez.
+Le dispositif "L’humain en mouvement" est à votre droite lorsque vous rentrez.
 ![Objet matériel](musee_de_la_sante_Armand_Frappier/photo/mise_en_espace.jpg)
 > Mise en espace par Nguyen Phu Thanh
 ---
@@ -113,7 +113,7 @@ Le dispositif, "L’humain en mouvement" , est à votre droite lorsque vous rent
 
 ### Ce qui m’a plu
 
-J'aimais que les dispositifs sont bien colorés differentement pour bien identifier les types de dispositif.
+J'aimais que les dispositifs soient bien colorés différentement pour bien identifier les types de dispositif.
 
 ### Ce que je ferais autrement
 
