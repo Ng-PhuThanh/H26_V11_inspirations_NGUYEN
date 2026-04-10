@@ -2,42 +2,42 @@
 ## 1. Informations 
 
 **Nom de l’exposition ou de l’événement :**  
-Bouger ! Get Moving!
+NANULAK Expédition Nordique ou Northern Expedition
 
 **Affiche de l’exposition :**  
 ![Objet matériel](photo/nom_exposition.jpg)
 > Affichage par Nguyen Phu Thanh
 
 **Lieu de mise en exposition :**  
-Musée de la santé Armand-Frappier, Laval (Québec)<br>
-2150 Laurentian Autoroute, Laval, Quebec H7T 0N1<br>
+Centre des sciences de Montréal<br>
+2 De La Commune St W, Montreal Quebec H2Y 4B2<br>
 ![Objet matériel](photo/lieu_de_mise_en_exposition.jpg)
 > Adresse par Nguyen Phu Thanh
 
 **Type d’exposition :**  
-Exposition intérieure et temporaire
+Exposition intérieure et permenant
 
 **Date de visite :**  
-02/27/2026
+03/27/2026
 
 ---
 
 ## 2. Informations sur l’œuvre ou le dispositif
 
 **Titre de l’œuvre ou du dispositif :**  
-L’humain en mouvement / The Human Being in Motion
+Une glace fragile
 
 **Vue d’ensemble de l’oeuvre :**  
 ![Objet matériel](photo/vue_ensemble.jpg)
 > L'ensemble de l'oeuvre par Nguyen Phu Thanh
 
 **Nom de l’artiste ou de la firme :**  
-Musée de la santé Armand-Frappier et équipe de conception de l’exposition<br>
+Centre des sciences de Montréal et équipe de conception de l’exposition<br>
 ![Objet matériel](photo/firme_du_exposition.jpg)
 > Artiste ou de la firme par Nguyen Phu Thanh
 
 **Année de réalisation :**  
-Non spécifiée
+03/01/2026
 
 ---
 
