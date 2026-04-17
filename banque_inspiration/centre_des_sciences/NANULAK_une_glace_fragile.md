@@ -15,26 +15,26 @@ Centre des sciences de Montréal<br>
 > Adresse par Nguyen Phu Thanh
 
 **Type d’exposition :**  
-Exposition intérieure et permenant
+Exposition intérieure et permenante
 
 **Date de visite :**  
 03/27/2026
 
 ---
 
-## 2. Informations sur l’œuvre ou le dispositif
-
 **Titre de l’œuvre ou du dispositif :**  
 Une glace fragile
+
+## 2. Informations sur l’œuvre ou le dispositif
 
 **Vue d’ensemble de l’oeuvre :**  
 ![Objet matériel](photo/vue_ensemble.jpg)
 > L'ensemble de l'oeuvre par Nguyen Phu Thanh
 
 **Nom de l’artiste ou de la firme :**  
-Centre des sciences de Montréal et équipe de conception de l’exposition<br>
+Centre des sciences de Montréal et l'équipe de conception de l’exposition<br>
 ![Objet matériel](photo/firme_du_exposition.jpg)
-> Artiste ou de la firme par Nguyen Phu Thanh
+> 
 
 **Année de réalisation :**  
 03/01/2026
@@ -43,9 +43,6 @@ Centre des sciences de Montréal et équipe de conception de l’exposition<br>
 
 ## 3. Description
 
-Le dispositif explique pourquoi les humains sont en constant mouvement pour survivre
-
-Le panneau explique, à l'aide du texte explicatif, l’évolution humaine et comment nos ancêstres ont réussi de survivre grâce aux adaptation physiques.
 
 ---
 
@@ -53,10 +50,7 @@ Le panneau explique, à l'aide du texte explicatif, l’évolution humaine et co
 
 **Type :**
 
-- Contemplative
-- Pédagogique
 
-Les visiteurs observent les panneaux explicatifs et les objets pour comprendre le sujet.
 
 ---
 
@@ -64,17 +58,13 @@ Les visiteurs observent les panneaux explicatifs et les objets pour comprendre l
 
 Fonctions principales :
 
-- Mise en contexte scientifique  
-- Support pédagogique  
-- Mise en valeur d’objets de collection
 
-Le dispositif sert à expliquer l’évolution de l'humain en montrant comment notre corps s'adapte et évoluent à cause de l'entraînement cardio et physique.
 
 ---
 
 ## 6. Mise en espace
 
-Le dispositif est composé de grands panneaux rouges qui illustrent le concept de l'exposition.
+
 
 ### Croquis simplifié
 ![Objet matériel](photo/mise_en_espace_croquis.jpg)
@@ -84,11 +74,6 @@ Le dispositif est composé de grands panneaux rouges qui illustrent le concept d
 ## 7. Composantes et techniques
 
 ### Parties composantes
-
-- panneaux imprimés
-- vitre
-- objets (crâne, objets sportifs, spécimen animal)
-- illustrations graphiques
 - textes
 - écran<br>
 ![Objet matériel](photo/dispositif_partie02.jpg)<br>
@@ -97,15 +82,10 @@ Le dispositif est composé de grands panneaux rouges qui illustrent le concept d
 
 ### Éléments nécessaires à la mise en exposition
 
-- panneaux muraux
-![Objet matériel](photo/dispositif_partie01.jpg)
-
-> Batiments
 ---
 
 ## 8. Expérience vécue
 
-Le dispositif "L’humain en mouvement" est à votre droite lorsque vous rentrez.
 ![Objet matériel](photo/mise_en_espace.jpg)
 > Mise en espace par Nguyen Phu Thanh
 ---
@@ -114,16 +94,14 @@ Le dispositif "L’humain en mouvement" est à votre droite lorsque vous rentrez
 
 ### Ce qui m’a plu
 
-J'aimais que les dispositifs soient bien colorés différentement pour bien identifier les types de dispositif.
+J'aimais le fait que le centre des science
 
 ### Ce que je ferais autrement
-
-Il pourrait y avoir plus d’interactivité, par exemple un test d'endurance qui est en lien du dispositif.
 
 ---
 
 ## 10. Références
  
-https://museefrappier.org/exposition/bouger/
+[https://museefrappier.org/exposition/bouger/](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)
 
 Photos prises par Nguyen Phu Thanh
