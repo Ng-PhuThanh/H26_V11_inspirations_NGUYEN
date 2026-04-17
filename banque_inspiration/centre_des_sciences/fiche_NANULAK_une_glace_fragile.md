@@ -22,10 +22,10 @@ Exposition intérieure et permenante
 
 ---
 
+## 2. Informations sur l’œuvre ou le dispositif
+
 **Titre de l’œuvre ou du dispositif :**  
 Une glace fragile
-
-## 2. Informations sur l’œuvre ou le dispositif
 
 **Vue d’ensemble de l’oeuvre :**  
 ![Objet matériel](photo/vue_ensemble.jpg)
@@ -49,6 +49,10 @@ Centre des sciences de Montréal et l'équipe de conception de l’exposition<br
 ## 4. Type d’installation
 
 **Type :**
+- Interactive
+- Muséale
+- Immersive
+- Multimédia
 
 
 
@@ -74,14 +78,18 @@ Fonctions principales :
 ## 7. Composantes et techniques
 
 ### Parties composantes
-- textes
-- écran<br>
+- Textes
+- Sensors
+- Boutons / zone à toucher
+- Écran tactiles<br>
 ![Objet matériel](photo/dispositif_partie02.jpg)<br>
 ![Objet matériel](photo/materiaux.)
 > Matériaux
 
 ### Éléments nécessaires à la mise en exposition
-
+- Panneaux inclinés
+- Modules en bois / métal
+- Supports des écrans et visuels
 ---
 
 ## 8. Expérience vécue
@@ -102,6 +110,6 @@ J'aimais bien le fait que le centre des science de Montreal, on assurait que l'e
 
 ## 10. Références
  
-[https://museefrappier.org/exposition/bouger/](https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)
+(https://www.centredessciencesdemontreal.com/exposition-permanente/nanualuk-expedition-nordique)
 
 Photos prises par Nguyen Phu Thanh
