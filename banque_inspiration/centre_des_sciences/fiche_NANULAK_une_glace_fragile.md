@@ -94,7 +94,7 @@ Fonctions principales :
 
 ### Ce qui m’a plu
 
-J'aimais le fait que le centre des science
+J'aimais bien le fait que le centre des science de Montreal, on assurait que l'exposition est bien securisé et accessible pour les enfants puisqu'ils sont les cibles de choix. 
 
 ### Ce que je ferais autrement
 
