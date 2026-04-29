@@ -5,13 +5,13 @@
 RÉSEAU VIVANT
 
 **Affiche de l’exposition :**  
-![Objet matériel](photo/nom_exposition.jpg)
+![Objet matériel](media/photo/lieu_mise_exposition_apres.jpg)
 > Affichage par Nguyen Phu Thanh
 
 **Lieu de mise en exposition :**  
 Collège Montmorency, Laval (Québec)<br>
 475 Boulevard de l'avenir, Laval Quebec H7N 5H9<br>
-![Objet matériel](photo/lieu_de_mise_en_exposition.jpg)
+![Objet matériel](media/photo/)
 > Adresse par Nguyen Phu Thanh
 
 **Type d’exposition :**  
@@ -28,13 +28,13 @@ Exposition intérieure et temporaire
 TERMINAL
 
 **Vue d’ensemble de l’oeuvre :**  
-![Objet matériel](photo/vue_ensemble.jpg)
+![Objet matériel](media/photo/mise_scene_terminal_avant.jpg)
 > L'ensemble de l'oeuvre par Nguyen Phu Thanh
 
 **Nom de l’artiste ou de la firme :**  
 Émeryk Bélisle, Elie Daher,Ting Yung Lu Terry, Dana Saavedra-Torrano, Mégane Ranger<br>
-![Objet matériel](photo/firme_du_exposition.jpg)
-> Artiste ou de la firme par Nguyen Phu Thanh
+![Objet matériel](media/photo/equipe_terminal.png)
+> Artiste ou de la firme par l'équipe de Terminal
 
 **Année de réalisation :**  
 Non spécifiée
@@ -53,7 +53,9 @@ TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs.
 
 - Interactif
 
-Les visiteurs observent les panneaux explicatifs et les objets pour comprendre le sujet.
+Les visiteurs interagissent en jouant au jeu avec leur cellulaire, qui agit comme une manette pour contrôler les joueurs.
+![Objet matériel](media/photo/experience_terminal_avant.jpg)
+
 
 ---
 
@@ -76,8 +78,8 @@ Fonctions principales :
 Le dispositif est composé de grands panneaux rouges qui illustrent le concept de l'exposition.
 
 ### Croquis simplifié
-![Objet matériel](photo/mise_en_espace_croquis.jpg)
-> Une schema du mise en espace par Nguyen Phu Thanh
+![Objet matériel](media/photo/terminal_scenarimage.png)
+> Une schema du mise en espace par l'équipe de Terminal
 ---
 
 ## 7. Composantes et techniques
@@ -102,8 +104,7 @@ Le dispositif est composé de grands panneaux rouges qui illustrent le concept d
 - Power supply pour boite à lumière: Donner le power à la boite à lumières
 - Boules de connections de lumières (2): Faire tenir les lumières droites
 - Carte graphique extérieur (1): Pour projeter les données vers les couleurs de lumières<br>
-![Objet matériel](photo/dispositif_partie02.jpg)<br>
-![Objet matériel](photo/materiaux.)
+![Objet matériel](media/photo/materiaux_terminal_avant.jpg)
 > Matériaux
 
 ### Éléments nécessaires à la mise en exposition
@@ -112,7 +113,7 @@ Le dispositif est composé de grands panneaux rouges qui illustrent le concept d
 - Podium code Qr
 - Fairy lightsa
 - Mur<br>
-![Objet matériel](photo/dispositif_partie01.jpg)
+![Objet matériel](media/photo/materiaux_partie02_terminal_avant.jpg)
 
 > Batiments
 ---
@@ -120,7 +121,7 @@ Le dispositif est composé de grands panneaux rouges qui illustrent le concept d
 ## 8. Expérience vécue
 
 En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui a les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres. Si quelqu'un est éliminé, tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté.
-![Objet matériel](photo/mise_en_espace.jpg)
+![Objet matériel](media/photo/vue_ensemble_avant.jpg )
 > Mise en espace par Nguyen Phu Thanh
 ---
 
@@ -128,16 +129,16 @@ En entrant dans le grand studio, les personnes lisent le cartel sur notre projet
 
 ### Ce qui m’a plu
 
-J'aimais que les dispositifs soient bien colorés différentement pour bien identifier les types de dispositif.
+J’aimais le fait que le jeu a plusieurs niveaux pour permettre de la variété, ainsi que les poufs gonflables pour le confort lorsqu’on joue.
 
 ### Ce que je ferais autrement
 
-Il pourrait y avoir plus d’interactivité, par exemple un test d'endurance qui est en lien du dispositif.
+Ce qui pourrait être fait, c’est d’améliorer la connexion entre la manette et l’opération pour permettre un meilleur contrôle sur les joueurs dans le jeu.
 
 ---
 
 ## 10. Références
  
-https://museefrappier.org/exposition/bouger/
+https://pythons-5.github.io/Terminal/#/
 
 Photos prises par Nguyen Phu Thanh
