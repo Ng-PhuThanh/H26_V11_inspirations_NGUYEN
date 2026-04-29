@@ -43,7 +43,7 @@ Non spécifiée
 
 ## 3. Description
 
-TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination.
+"TERMINAL est une installation interactive pouvant accueillir jusqu'à 6 joueurs. Chaque joueur contrôle un opérateur via la manette sur son téléphone pour restaurer un ancien réseau informatique piraté par un pirate informatique. Lorsque les joueurs se déplacent, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L'objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés par le pirate ou les traces des autres. En cas d'élimination, toute l'équipe doit recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant des boutons qui ouvrent des passages, des obstacles mobiles et bien d'autres défis nécessitant communication et coordination."
 
 ---
 
@@ -120,7 +120,7 @@ Le dispositif est composé de grands panneaux rouges qui illustrent le concept d
 
 ## 8. Expérience vécue
 
-En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui a les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres. Si quelqu'un est éliminé, tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté.
+"En entrant dans le grand studio, les personnes lisent le cartel sur notre projet qui a les instructions. Les joueurs devront se connecter sur le routeur et balayer le code QR pour entrer dans le jeu. Quand tous les joueurs auront appuyé sur prêt, l'écran affiche une courte intro et explique les bases en quelques secondes. La partie démarre au niveau 1, les joueurs réalisent vite qu'ils doivent communiquer, car quand ils se déplacent, une ligne permanente derrière leur opérateur devient un obstacle pour les autres. Si quelqu'un est éliminé, tout le monde recommence le niveau. Les joueurs apprennent par essais et erreurs. Plus ils avancent, plus les niveaux combinent de nouvelles mécaniques comme des portes et des obstacles qui bougent et montent en difficulté."
 ![Objet matériel](media/photo/vue_ensemble_avant.jpg )
 > Mise en espace par Nguyen Phu Thanh
 ---
