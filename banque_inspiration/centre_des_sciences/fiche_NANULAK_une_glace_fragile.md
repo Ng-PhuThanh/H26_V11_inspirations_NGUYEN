@@ -55,6 +55,7 @@ Centre des sciences de Montréal et l'équipe de conception de l’exposition<br
 - Multimédia
 
 Le type d’installation présenté est une installation interactive multimédia immersive de type muséal, conçue pour engager activement le visiteur à travers des interfaces numériques et des supports physiques. Elle combine des écrans interactifs, des panneaux informatifs et des éléments visuels afin de transmettre du contenu éducatif de manière dynamique. L’utilisateur n’est pas seulement spectateur, mais devient acteur de l’expérience en manipulant les dispositifs et en explorant les informations à son rythme.
+
 ---
 
 ## 5. Fonction du dispositif multimédia
