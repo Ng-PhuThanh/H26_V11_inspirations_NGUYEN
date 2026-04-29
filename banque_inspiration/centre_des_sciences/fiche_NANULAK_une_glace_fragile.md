@@ -102,12 +102,12 @@ La mise en espace de cette installation est organisée de manière ouverte et se
 
 ### Ce qui m’a plu
 
-Ce qui m’a plu dans cette installation est avant tout son aspect interactif et immersif, qui rend l’expérience plus engageante qu’une exposition traditionnelle. J’ai particulièrement apprécié la présence du kiosque numérique central, qui attire l’attention et donne envie d’explorer le contenu. La mise en espace ouverte permet une circulation fluide et donne une impression de liberté dans la découverte. De plus, la qualité visuelle des panneaux, avec des images et une mise en page claire, facilite la compréhension de l’information. Enfin, l’ambiance lumineuse contribue à créer une atmosphère agréable et immersive, ce qui rend l’expérience globale à la fois intéressante et captivante.
+Ce qui m’a plu dans cette installation est avant tout son aspect interactif et immersif, qui rend l’expérience plus engageante qu’une exposition traditionnelle.La mise en espace ouverte permet une circulation fluide et donne une impression de liberté dans la découverte. De plus, la qualité visuelle des panneaux, avec des images et une mise en page claire, facilite la compréhension de l’information.
  
 
 ### Ce que je ferais autrement
 
-Je modifierais certains éléments afin d’améliorer l’expérience globale de l’installation. D’abord, j’ajouterais une circulation plus guidée, par exemple avec un parcours suggéré ou une signalisation au sol, afin d’aider les visiteurs à mieux comprendre l’ordre de découverte du contenu. Ensuite, j’intégrerais davantage d’interactions variées, comme des éléments tactiles physiques ou des animations plus dynamiques, pour rendre l’expérience encore plus engageante. Je retravaillerais aussi la hiérarchie visuelle en accentuant davantage les titres et les points importants, afin de faciliter la lecture rapide. Finalement, j’ajouterais une dimension audio ou immersive supplémentaire, comme des sons d’ambiance ou une narration, pour enrichir l’expérience sensorielle et capter encore plus l’attention des visiteurs.
+Je modifierais certains éléments afin d’améliorer l’expérience globale de l’installation. D’abord, j’ajouterais une circulation plus guidée, par exemple avec un parcours suggéré ou une signalisation au sol, afin d’aider les visiteurs à mieux comprendre l’ordre de découverte du contenu.
 
 ## 10. Références
  
