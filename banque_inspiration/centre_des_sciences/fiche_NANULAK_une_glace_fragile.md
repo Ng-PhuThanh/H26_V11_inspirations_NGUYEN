@@ -43,6 +43,7 @@ Centre des sciences de Montréal et l'équipe de conception de l’exposition<br
 
 ## 3. Description
 
+Nanualuk – Expédition Nordique est une expérience immersive qui plonge les visiteurs dans un univers inspiré du Grand Nord. L’activité propose de découvrir un territoire nordique à travers une installation interactive combinant écrans tactiles, panneaux visuels et mise en espace thématique. Les visiteurs explorent les stations à leur rythme, consultent du contenu informatif, observent des images et apprennent sur l’environnement, la culture et les réalités de l’expédition en milieu nordique. L’expérience met l’accent sur la découverte, la sensibilisation et la participation, en transformant l’exposition en un parcours éducatif interactif.
 
 ---
 
@@ -54,15 +55,14 @@ Centre des sciences de Montréal et l'équipe de conception de l’exposition<br
 - Immersive
 - Multimédia
 
-Le type d’installation présenté est une installation interactive multimédia immersive de type muséal, conçue pour engager activement le visiteur à travers des interfaces numériques et des supports physiques. Elle combine des écrans interactifs, des panneaux informatifs et des éléments visuels afin de transmettre du contenu éducatif de manière dynamique. L’utilisateur n’est pas seulement spectateur, mais devient acteur de l’expérience en manipulant les dispositifs et en explorant les informations à son rythme.
+Le type d’installation présenté est une installation interactive multimédia immersive de type muséal, conçue pour engager activement le visiteur à travers des interfaces numériques et des supports physiques. Elle combine des écrans interactifs, des panneaux informatifs et des éléments visuels afin de transmettre du contenu éducatif de manière dynamique.
 
 ---
 
 ## 5. Fonction du dispositif multimédia
 
 Fonctions principales :
-
-
+La fonction du dispositif multimédia est de transmettre de l’information de manière interactive et engageante. Il permet aux visiteurs d’explorer du contenu éducatif à leur rythme en utilisant des écrans tactiles et des supports visuels. Le dispositif sert aussi à attirer l’attention, à guider la découverte et à rendre l’apprentissage plus dynamique qu’une simple lecture de panneaux statiques. En combinant images, textes, interface numérique et mise en espace immersive, il favorise la compréhension, la participation et l’expérience utilisateur, tout en rendant l’exposition plus accessible et mémorable.
 
 ---
 
