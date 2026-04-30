@@ -28,12 +28,12 @@ Exposition intérieure et permenante
 Une glace fragile
 
 **Vue d’ensemble de l’oeuvre :**  
-![Objet matériel](photo/vue_ensemble.jpg)
+![Objet matériel](photo/mise_en_espace_oeuvre.jpg)
 > L'ensemble de l'oeuvre par Nguyen Phu Thanh
 
 **Nom de l’artiste ou de la firme :**  
 Centre des sciences de Montréal et l'équipe de conception de l’exposition<br>
-![Objet matériel](photo/firme_du_exposition.jpg)
+![Objet matériel](photo/source_credits_realisateurs_complete.jpg)
 > 
 
 **Année de réalisation :**  
@@ -82,19 +82,20 @@ La mise en espace de cette installation est organisée de manière ouverte et se
 - Sensors
 - Boutons / zone à toucher
 - Écran tactiles<br>
-![Objet matériel](photo/dispositif_partie02.jpg)<br>
-![Objet matériel](photo/materiaux.)
+![Objet matériel](photo/materiaux_oeuvre_plus_proche.jpg)<br>
+![Objet matériel](photo/materiaux_oeuvre.jpg)
 > Matériaux
 
 ### Éléments nécessaires à la mise en exposition
 - Panneaux inclinés
 - Modules en bois / métal
 - Supports des écrans et visuels
+![Objet matériel](photo/appareils_luminosite_oeuvre.jpg)
 ---
 
 ## 8. Expérience vécue
 
-![Objet matériel](photo/mise_en_espace.jpg)
+![Objet matériel](photo/demonstration_oeuvre.jpg)
 > Mise en espace par Nguyen Phu Thanh
 ---
 
