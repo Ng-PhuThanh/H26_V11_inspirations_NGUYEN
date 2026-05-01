@@ -27,3 +27,4 @@ Avec ce dispositif, ils ont implanté un système interactif qui émet une mélo
 Marthin Boucher explique comment le rôle d’un technicien en multimédia comprend de nombreuses tâches essentielles au succès d’une exposition en milieu muséal. Cette présentation nous a ainsi aidés à mieux comprendre la réflexion et la résolution nécessaires derrière la réalisation d’un projet multimédia. Ce que j’ai bien aimé lors de la présentation, c’est le sentiment de passion que le présentateur dégage, ce qui montre qu’il aime son métier et rend sa présentation plus réaliste et facile à comprendre.
 
 ![Objet matériel](media/Photo/exemple_garage_expo_musee.jpg)
+> Photo prise par le Musée de l’ingéniosité.
