@@ -43,7 +43,7 @@ Centre des sciences de Montréal et l'équipe de conception de l’exposition<br
 
 ## 3. Description
 
-Nanualuk – Expédition Nordique est une expérience immersive qui plonge les visiteurs dans un univers inspiré du Grand Nord. L’activité propose de découvrir un territoire nordique à travers une installation interactive combinant écrans tactiles, panneaux visuels et mise en espace thématique. Les visiteurs explorent les stations à leur rythme, consultent du contenu informatif, observent des images et apprennent sur l’environnement, la culture et les réalités de l’expédition en milieu nordique. L’expérience met l’accent sur la découverte, la sensibilisation et la participation, en transformant l’exposition en un parcours éducatif interactif.
+Nanualuk – Expédition Nordique est une expérience immersive qui guide les visiteurs vers une compréhension scientifique et éducative à travers des jeux interactifs. Elle leur permet de s’amuser tout en découvrant la vie quotidienne des peuples autochtones. Par exemple, Glace fragile est un jeu interactif dans lequel les visiteurs doivent rejoindre leur village avant le coucher du soleil. À l’aide d’un harpon, ils vérifient la solidité de la glace qui sert de passage afin de pouvoir la traverser en toute sécurité.
 
 ---
 
@@ -51,24 +51,23 @@ Nanualuk – Expédition Nordique est une expérience immersive qui plonge les v
 
 **Type :**
 - Interactive
-- Muséale
 - Immersive
 - Multimédia
 
-Le type d’installation présenté est une installation interactive multimédia immersive de type muséal, conçue pour engager activement le visiteur à travers des interfaces numériques et des supports physiques. Elle combine des écrans interactifs, des panneaux informatifs et des éléments visuels afin de transmettre du contenu éducatif de manière dynamique.
+Le type d’installation présenté est une installation interactive multimédia immersive. Lorsque l’on en fait l’expérience, on remarque la présence d’écrans thématiques liés à Nanualuk, ainsi qu’une atmosphère et des sons nordiques qui contribuent à plonger le visiteur dans l’univers d’une expédition nordique.
 
 ---
 
 ## 5. Fonction du dispositif multimédia
 
 Fonctions principales :
-La fonction du dispositif multimédia est de transmettre de l’information de manière interactive et engageante. Il permet aux visiteurs d’explorer du contenu éducatif à leur rythme en utilisant des écrans tactiles et des supports visuels. Le dispositif sert aussi à attirer l’attention, à guider la découverte et à rendre l’apprentissage plus dynamique qu’une simple lecture de panneaux statiques. En combinant images, textes, interface numérique et mise en espace immersive, il favorise la compréhension, la participation et l’expérience utilisateur, tout en rendant l’exposition plus accessible et mémorable.
+La fonction de l’installation est d’offrir aux visiteurs une expérience à la fois interactive et éducative. Elle leur permet d’apprendre de manière agréable et engageante. Les écrans, l’atmosphère, la lumière et le son contribuent à plonger les visiteurs dans une expérience immersive.
 
 ---
 
 ## 6. Mise en espace
 
-La mise en espace de cette installation est organisée de manière ouverte et semi-circulaire, avec un kiosque interactif central servant de point focal, autour duquel sont disposés plusieurs modules d’exposition inclinés. Cette disposition permet une circulation libre et fluide des visiteurs, qui peuvent se déplacer à leur rythme entre les différentes stations sans parcours imposé. Les éléments sont espacés stratégiquement pour éviter l’encombrement et faciliter l’accès à chaque interface. 
+La mise en espace de cette installation est semi-circulaire, ce qui permet aux visiteurs d’observer la personne qui manipule le dispositif et d’attirer ainsi leur intérêt. Les lumières sont orientées vers les écrans afin d’améliorer la visibilité. Deux écrans sont installés : l’un diffuse les instructions et explique le jeu, tandis que l’autre affiche l’interface destinée aux joueurs.
 
 ### Croquis simplifié
 ![Objet matériel](photo/mise_en_espace_croquis.jpg)
@@ -103,7 +102,7 @@ La mise en espace de cette installation est organisée de manière ouverte et se
 
 ### Ce qui m’a plu
 
-Ce qui m’a plu dans cette installation est avant tout son aspect interactif et immersif, qui rend l’expérience plus engageante qu’une exposition traditionnelle.La mise en espace ouverte permet une circulation fluide et donne une impression de liberté dans la découverte.
+Ce qui m’a plu dans cette installation est avant tout son aspect interactif et immersif, qui rend l’expérience plus engageante qu’une exposition traditionnelle. La mise en espace ouverte permet une circulation fluide et donne une impression de liberté dans la découverte.
  
 
 ### Ce que je ferais autrement
