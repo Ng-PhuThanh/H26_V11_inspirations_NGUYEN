@@ -1,4 +1,4 @@
-# L’aspect technique dans les domaines du multimédia
+# La création d’un projet multimédia
 
 ## Introduction
 
@@ -22,4 +22,7 @@ Dans un projet nécessitant peu de lumière, le projecteur laser est donc plus a
 
 Pour améliorer une exposition, il est important de capter l’intérêt des visiteurs afin d’assurer sa pérennité. Pour attirer leur attention, prenons l’exemple de l’exposition de la STM. Les techniciens ont dû innover pour transformer des projets peu attrayants en expériences engageantes.
 Avec ce dispositif, ils ont implanté un système interactif qui émet une mélodie lorsqu’un utilisateur réussit le jeu. Cette méthode permet non seulement de capter l’attention, mais aussi d’enseigner de manière ludique, plutôt que de simplement lire des informations.
+
 ## Conclusion
+Marthin Boucher explique comment le rôle d’un technicien en multimédia comprend de nombreuses tâches essentielles au succès d’une exposition en milieu muséal. Cette présentation nous a ainsi aidés à mieux comprendre la réflexion et la résolution nécessaires derrière la réalisation d’un projet multimédia. Ce que j’ai bien aimé lors de la présentation, c’est le sentiment de passion que le présentateur dégage, ce qui montre qu’il aime son métier et rend sa présentation plus réaliste et facile à comprendre.
+
